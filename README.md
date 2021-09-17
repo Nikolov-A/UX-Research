@@ -4,4 +4,4 @@
 
 Velvet Design is a digital marketing agency that has created a logo in different colors and wanted to find out which is the most liked color by its customers.
 
-<h2 align="center"><img src="https://ibb.co/f4hBsWy"/></h2>
+<h2 align="center"><img src="https://ibb.co/f4hBsWy" /></h2>
