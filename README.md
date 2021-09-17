@@ -22,3 +22,5 @@ For example, for person X we can say that he loves candy with 12 grams of sugar,
 
 
 **Here we can see a very simple geometric interpretation of the model.**
+
+<img src="https://i.ibb.co/5nt2ZZW/candies.png" />
