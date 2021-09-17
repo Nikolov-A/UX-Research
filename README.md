@@ -1,6 +1,6 @@
 # UX-Research Portfolio
 
-## Project - *Velvet Design Logo*
+## *Velvet Design Logo*
 
 Velvet Design is a digital marketing agency that has created a logo in different colors and wanted to find out which is the most liked color by its customers.
 
@@ -23,4 +23,55 @@ For example, for person X we can say that he loves candy with 12 grams of sugar,
 
 **Here we can see a very simple geometric interpretation of the model.**
 
-<img src="https://i.ibb.co/5nt2ZZW/candies.png" />
+<img src="https://i.ibb.co/5nt2ZZW/candies.png" /> 
+
+**Legend:**
+
+Along the X axis we have sugar  
+Along the Y axis we have cocoa butter   
+Along the Z axis we have milk  
+ 
+
+**A** - candy № 1  
+**B** - candy № 2  
+**C** - candy № 3  
+
+**I1** - The perfect candy for a subject № 1  
+**I2** - The perfect candy for a subject № 2
+
+
+
+
+
+
+**Let's get back to Velvet Design Logo.**
+
+In this case, we can replace sugar, cocoa butter and milk with the color characteristics of hue, saturation and brightness (value).
+
+<img src="https://i.ibb.co/GsX7hFH/colors.png" /> 
+
+## *Ring, Gum and Photo Frame* 
+
+Here I used the same approach as described above and I had to answer which angle is the most liked one.   
+
+
+<img src="https://i.ibb.co/48dGsV8/ring.png" /> 
+
+<img src="https://i.ibb.co/8csBfVX/gum.png" />  
+  
+<img src="https://i.ibb.co/VpDsZxr/frame.png" /> 
+
+## *Effect of congruency between website content and advertising content on banner blindness (Eye-tracking study)*
+
+<img src="https://i.ibb.co/py9qXXn/download.png" /> 
+
+I should answer which ad positions is driving more attention and what ad content (congruency or incongruence) is driving more attention. So I used eye tracker – **`Tobi I TX 300`** with **`Tobi I Studio 3.3.0`** to analyze fixation count and total fixation duration on these green fields and performed **`2x2 ANOVA`** to analyze results.
+
+
+Eye tracking is a sensor technology that makes it possible for a computer or other device to know where a person is looking. An eye tracker can detect the presence, attention and focus of the user. It allows for unique insights into human behavior and facilitates natural user interfaces in a broad range of devices. The ability to control a computer using the eyes is also vital for people who are unable to speak or use their hands.  
+
+This is how Eye Tracker looks like.
+<img src="https://i.ibb.co/KXLW6MF/Tobii-Pro-TX300-Eye-Tracker-front-2-1.jpg" /> 
+
+<img src="https://i.ibb.co/2nVswdw/Tobii-eye-tracker-how-it-works.png" /> 
+
